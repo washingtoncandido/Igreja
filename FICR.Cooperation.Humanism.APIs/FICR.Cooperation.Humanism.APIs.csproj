@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+	<UserSecretsId>EventosIgrejas</UserSecretsId>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data\FICR.Cooperation.Humanism.Data.csproj" />
+    <ProjectReference Include="..\FICR.Cooperation.Humanism.Services.Contracts\FICR.Cooperation.Humanism.Services.Contracts.csproj" />
+    <ProjectReference Include="..\FICR.Cooperation.Humanism.Services\FICR.Cooperation.Humanism.Services.csproj" />
+  </ItemGroup>
+
+</Project>

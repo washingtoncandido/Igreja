@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FICR.Cooperation.Humanism.Data", "FICR.Cooperation.Humanism.Data.csproj", "{1AA6F848-5929-47B4-B6F8-B26E7A435DD9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FICR.Cooperation.Humanism.Services", "..\FICR.Cooperation.Humanism.Services\FICR.Cooperation.Humanism.Services.csproj", "{6D77B6AD-1C8A-4A25-B571-AFE78FC21DEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FICR.Cooperation.Humanism.Services.Contracts", "..\FICR.Cooperation.Humanism.Services.Contracts\FICR.Cooperation.Humanism.Services.Contracts.csproj", "{ABC94C33-156C-403E-B7EB-2D32DE43F6C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FICR.Cooperation.Humanism.Data.Contracts", "..\ClassLibrary1FICR.Cooperation.Humanism.Data.Contracts\FICR.Cooperation.Humanism.Data.Contracts.csproj", "{3E07EB63-CA17-4B82-B048-E5BCCB252507}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FICR.Cooperation.Humanism.Entities", "..\FICR.Cooperation.Humanism.Entities\FICR.Cooperation.Humanism.Entities.csproj", "{BFF2F9B5-7AFB-4F82-AB2C-53A1296E3DBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FICR.Cooperation.Humanism.CrossCutting", "..\FICR.Cooperation.Humanism.CrossCutting\FICR.Cooperation.Humanism.CrossCutting.csproj", "{4E47E5C5-D5DA-4BB2-BF9C-D93C31E3120E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contracts", "Contracts", "{4C431187-B3A2-4F29-8C41-57823856BDB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{A30D864C-2FBA-4B65-B67C-C620F8EE338B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Util", "Util", "{B5FFB523-DEF5-4E57-A2D6-4CFB0DF700E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FICR.Cooperation.Humanism.APIs", "..\FICR.Cooperation.Humanism.APIs\FICR.Cooperation.Humanism.APIs.csproj", "{46F33591-583B-42CC-9038-BAE3144E2147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA6F848-5929-47B4-B6F8-B26E7A435DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA6F848-5929-47B4-B6F8-B26E7A435DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA6F848-5929-47B4-B6F8-B26E7A435DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA6F848-5929-47B4-B6F8-B26E7A435DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D77B6AD-1C8A-4A25-B571-AFE78FC21DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D77B6AD-1C8A-4A25-B571-AFE78FC21DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D77B6AD-1C8A-4A25-B571-AFE78FC21DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D77B6AD-1C8A-4A25-B571-AFE78FC21DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC94C33-156C-403E-B7EB-2D32DE43F6C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC94C33-156C-403E-B7EB-2D32DE43F6C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC94C33-156C-403E-B7EB-2D32DE43F6C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC94C33-156C-403E-B7EB-2D32DE43F6C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E07EB63-CA17-4B82-B048-E5BCCB252507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E07EB63-CA17-4B82-B048-E5BCCB252507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E07EB63-CA17-4B82-B048-E5BCCB252507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E07EB63-CA17-4B82-B048-E5BCCB252507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF2F9B5-7AFB-4F82-AB2C-53A1296E3DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF2F9B5-7AFB-4F82-AB2C-53A1296E3DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF2F9B5-7AFB-4F82-AB2C-53A1296E3DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF2F9B5-7AFB-4F82-AB2C-53A1296E3DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E47E5C5-D5DA-4BB2-BF9C-D93C31E3120E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E47E5C5-D5DA-4BB2-BF9C-D93C31E3120E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E47E5C5-D5DA-4BB2-BF9C-D93C31E3120E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E47E5C5-D5DA-4BB2-BF9C-D93C31E3120E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F33591-583B-42CC-9038-BAE3144E2147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F33591-583B-42CC-9038-BAE3144E2147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F33591-583B-42CC-9038-BAE3144E2147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F33591-583B-42CC-9038-BAE3144E2147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1AA6F848-5929-47B4-B6F8-B26E7A435DD9} = {A30D864C-2FBA-4B65-B67C-C620F8EE338B}
+		{6D77B6AD-1C8A-4A25-B571-AFE78FC21DEF} = {A30D864C-2FBA-4B65-B67C-C620F8EE338B}
+		{ABC94C33-156C-403E-B7EB-2D32DE43F6C4} = {4C431187-B3A2-4F29-8C41-57823856BDB8}
+		{3E07EB63-CA17-4B82-B048-E5BCCB252507} = {4C431187-B3A2-4F29-8C41-57823856BDB8}
+		{BFF2F9B5-7AFB-4F82-AB2C-53A1296E3DBC} = {A30D864C-2FBA-4B65-B67C-C620F8EE338B}
+		{4E47E5C5-D5DA-4BB2-BF9C-D93C31E3120E} = {B5FFB523-DEF5-4E57-A2D6-4CFB0DF700E6}
+		{4C431187-B3A2-4F29-8C41-57823856BDB8} = {A30D864C-2FBA-4B65-B67C-C620F8EE338B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C7C5D66-4020-4D6F-ABE5-8361A26E28C4}
+	EndGlobalSection
+EndGlobal

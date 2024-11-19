@@ -1,0 +1,17 @@
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\bin\Debug\net8.0\FICR.Cooperation.Humanism.Entities.deps.json
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\bin\Debug\net8.0\FICR.Cooperation.Humanism.Entities.runtimeconfig.json
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\bin\Debug\net8.0\FICR.Cooperation.Humanism.Entities.dll
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\bin\Debug\net8.0\FICR.Cooperation.Humanism.Entities.pdb
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\bin\Debug\net8.0\FICR.Cooperation.Humanism.CrossCutting.dll
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\bin\Debug\net8.0\FICR.Cooperation.Humanism.CrossCutting.pdb
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\obj\Debug\net8.0\FICR.Cooperation.Humanism.Entities.csproj.AssemblyReference.cache
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\obj\Debug\net8.0\FICR.Cooperation.Humanism.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\obj\Debug\net8.0\FICR.Cooperation.Humanism.Entities.AssemblyInfoInputs.cache
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\obj\Debug\net8.0\FICR.Cooperation.Humanism.Entities.AssemblyInfo.cs
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\obj\Debug\net8.0\FICR.Cooperation.Humanism.Entities.csproj.CoreCompileInputs.cache
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\obj\Debug\net8.0\FICR.Coo.992C5DD4.Up2Date
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\obj\Debug\net8.0\FICR.Cooperation.Humanism.Entities.dll
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\obj\Debug\net8.0\refint\FICR.Cooperation.Humanism.Entities.dll
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\obj\Debug\net8.0\FICR.Cooperation.Humanism.Entities.pdb
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\obj\Debug\net8.0\FICR.Cooperation.Humanism.Entities.genruntimeconfig.cache
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.Entities\obj\Debug\net8.0\ref\FICR.Cooperation.Humanism.Entities.dll

@@ -1,0 +1,15 @@
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.CrossCutting\bin\Debug\net8.0\FICR.Cooperation.Humanism.CrossCutting.deps.json
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.CrossCutting\bin\Debug\net8.0\FICR.Cooperation.Humanism.CrossCutting.runtimeconfig.json
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.CrossCutting\bin\Debug\net8.0\FICR.Cooperation.Humanism.CrossCutting.dll
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.CrossCutting\bin\Debug\net8.0\FICR.Cooperation.Humanism.CrossCutting.pdb
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.CrossCutting\obj\Debug\net8.0\FICR.Cooperation.Humanism.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.CrossCutting\obj\Debug\net8.0\FICR.Cooperation.Humanism.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.CrossCutting\obj\Debug\net8.0\FICR.Cooperation.Humanism.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.CrossCutting\obj\Debug\net8.0\FICR.Cooperation.Humanism.CrossCutting.AssemblyInfo.cs
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.CrossCutting\obj\Debug\net8.0\FICR.Cooperation.Humanism.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.CrossCutting\obj\Debug\net8.0\FICR.Cooperation.Humanism.CrossCutting.sourcelink.json
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.CrossCutting\obj\Debug\net8.0\FICR.Cooperation.Humanism.CrossCutting.dll
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.CrossCutting\obj\Debug\net8.0\refint\FICR.Cooperation.Humanism.CrossCutting.dll
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.CrossCutting\obj\Debug\net8.0\FICR.Cooperation.Humanism.CrossCutting.pdb
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.CrossCutting\obj\Debug\net8.0\FICR.Cooperation.Humanism.CrossCutting.genruntimeconfig.cache
+C:\Users\washi\source\repos\washingtoncandido\EventosIgrejas\FICR.Cooperation.Humanism.CrossCutting\obj\Debug\net8.0\ref\FICR.Cooperation.Humanism.CrossCutting.dll

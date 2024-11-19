@@ -1,0 +1,6 @@
+@FICR.Cooperation.Humanism.APIs_HostAddress = http://localhost:5153
+
+GET {{FICR.Cooperation.Humanism.APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
