@@ -23,7 +23,7 @@ namespace FICR.Cooperation.Humanism.APIs.Controllers
 
             // Chamar o serviço para enviar a mensagem
             var variables = request.Variables ?? new Dictionary<string, string>();
-            await _menssagemService.SendMessage(request.RecipientNumber, request.MessageBody, variables);
+            await _menssagemService.SendMessage(request.RecipientNumber, request.MessageBody, variables,request.mediaUrl);
 
             return Ok("Message sent successfully.");
         }

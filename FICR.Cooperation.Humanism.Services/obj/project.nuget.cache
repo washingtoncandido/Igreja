@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c6mR4cnEO//AhKh2vkTbgx61UONccwHDXNrSpIABEgRNxBHR8+5n8//gPnlJXIy3++/qH/ij/z/0/PiLAyQr1A==",
+  "dgSpecHash": "PmBUJ901g7C0/sXQ+25qQDnrYKmFgSX5mkAtVKCT8Ql+0eaToBSSw7J/sOljQzPIRufltkcI3HEMjeh5q0m4Jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\washi\\source\\repos\\washingtoncandido\\EventosIgrejas\\FICR.Cooperation.Humanism.Services\\FICR.Cooperation.Humanism.Services.csproj",
+  "projectFilePath": "C:\\Users\\washi\\source\\repos\\washingtoncandido\\Igreja\\FICR.Cooperation.Humanism.Services\\FICR.Cooperation.Humanism.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\washi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\washi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

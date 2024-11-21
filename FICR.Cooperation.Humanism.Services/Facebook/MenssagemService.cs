@@ -3,9 +3,6 @@ using FICR.Cooperation.Humanism.Services.Contracts;
 using Twilio;
 using Twilio.Rest.Api.V2010.Account;
 using Twilio.Types;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace FICR.Cooperation.Humanism.Services.Twilio
 {
@@ -16,7 +13,6 @@ namespace FICR.Cooperation.Humanism.Services.Twilio
         private readonly string _authToken;
         private readonly string _twilioWhatsAppNumber;
 
-        // Construtor que recebe as credenciais como parâmetros
         public MenssagemService(IUnitOfWork unitOfWork, string accountSid, string authToken, string twilioWhatsAppNumber)
         {
             _unitOfWork = unitOfWork;
@@ -27,16 +23,16 @@ namespace FICR.Cooperation.Humanism.Services.Twilio
             TwilioClient.Init(_accountSid, _authToken);
         }
 
-        public async Task SendMessage(List<string> recipientNumbers, string messageBody, Dictionary<string, string> variables = null)
+        public async Task SendMessage(
+            List<string> recipientNumbers,
+            string messageBody,
+            Dictionary<string, string> variables = null,
+            string mediaUrl = null)
         {
-            // "+5581988961443"
-            // "+5581996330673"  
             try
             {
-               recipientNumbers = new List<string> { "+558198877034", "+558194347211", "+558199738983", "+5581996330673" };
-
-                if (string.IsNullOrEmpty(messageBody))
-                    throw new ArgumentException("O corpo da mensagem não pode ser nulo ou vazio.", nameof(messageBody));
+                if (string.IsNullOrEmpty(messageBody) && string.IsNullOrEmpty(mediaUrl))
+                    throw new ArgumentException("É necessário fornecer um corpo de mensagem ou uma URL de mídia.");
 
                 foreach (var recipientNumber in recipientNumbers)
                 {
@@ -58,6 +54,11 @@ namespace FICR.Cooperation.Humanism.Services.Twilio
                         messageOptions.Body = $"{messageBody}{Environment.NewLine}{formattedVariables}";
                     }
 
+                    if (!string.IsNullOrEmpty(mediaUrl))
+                    {
+                        messageOptions.MediaUrl = new List<Uri> { new Uri(mediaUrl) };
+                    }
+
                     try
                     {
                         var message = await MessageResource.CreateAsync(messageOptions);
@@ -75,6 +76,5 @@ namespace FICR.Cooperation.Humanism.Services.Twilio
                 throw;
             }
         }
-
     }
 }

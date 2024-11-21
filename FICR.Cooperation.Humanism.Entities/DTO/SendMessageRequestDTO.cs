@@ -12,5 +12,7 @@ namespace FICR.Cooperation.Humanism.Controllers
         public string MessageBody { get; set; }
 
         public Dictionary<string, string> Variables { get; set; }
+
+        public string mediaUrl { get; set; }
     }
 }
