@@ -31,6 +31,7 @@ namespace FICR.Cooperation.Humanism.Services.Twilio
         {
             try
             {
+
                 if (string.IsNullOrEmpty(messageBody) && string.IsNullOrEmpty(mediaUrl))
                     throw new ArgumentException("É necessário fornecer um corpo de mensagem ou uma URL de mídia.");
 
